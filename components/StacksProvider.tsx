@@ -38,7 +38,7 @@ export default function StacksProvider({ children }: { children: React.ReactNode
 
     const authenticate = async () => {
         try {
-            const response = await connect({
+            const response = await (connect as any)({
                 appDetails: {
                     name: "Arkadiko Wizard",
                     icon: typeof window !== "undefined" ? window.location.origin + "/favicon.ico" : "",
