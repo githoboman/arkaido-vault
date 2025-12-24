@@ -1,4 +1,4 @@
-// File: C:\Users\OWNER\Desktop\arkaido vault\app\layout.tsx
+// File: c:\Users\OWNER\Desktop\arkaido vault\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
