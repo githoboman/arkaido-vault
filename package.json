@@ -18,7 +18,7 @@
     "viem": "^2.17.0"
   },
   "engines": {
-    "node": "18"
+    "node": "24.x"
   },
   "devDependencies": {
     "@types/node": "^20",
